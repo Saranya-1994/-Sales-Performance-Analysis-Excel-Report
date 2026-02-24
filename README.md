@@ -49,6 +49,35 @@
 | Fruits | 10 | $466,481 | $120,495 | 25.83% |
 
 ---
+## 📊 Key Visualizations
+
+### 1️⃣ Monthly Revenue
+<img width="2001" height="894" alt="01_monthly_revenue" src="https://github.com/user-attachments/assets/5ab6aefe-0979-4b53-afea-f40c691b7c7d" />
+
+
+### 2️⃣ Monthly Profit
+<img width="2030" height="894" alt="02_monthly_profit" src="https://github.com/user-attachments/assets/0ea1ba0d-dedc-4121-a071-e16431544cdc" />
+
+
+### 3️⃣ Revenue & Profit by Sales Channel
+<img width="1404" height="904" alt="03_revenue_profit_by_channel" src="https://github.com/user-attachments/assets/f789ad8b-4aeb-4916-8475-876c62647d0b" />
+
+
+### 4️⃣ Revenue by Region
+<img width="1774" height="1221" alt="04_revenue_by_region" src="https://github.com/user-attachments/assets/18b3eed8-6073-42a0-811c-8ca807015daf" />
+
+
+### 6️⃣ Top 10 Item Types by Revenue
+<img width="1774" height="1089" alt="06_top10_itemtypes_by_revenue" src="https://github.com/user-attachments/assets/e2da69ff-7c32-48ad-9c2a-d22653a12076" />
+
+
+### 7️⃣ Revenue Mix by Channel (Top Item Types)
+<img width="1945" height="1048" alt="07_revenue_mix_by_channel_top10_items" src="https://github.com/user-attachments/assets/758a4bf5-993d-4893-b61d-b9e03892d322" />
+
+
+### 8️⃣ Pareto Analysis (80/20 Rule)
+<img width="2151" height="1157" alt="08_pareto_revenue_itemtype" src="https://github.com/user-attachments/assets/4261e734-a5e0-4310-975a-e5169494cfa3" />
+
 
 ## 🌍 Performance by Region
 
@@ -249,6 +278,9 @@
 | Jul 2017 | $1,903,039 | $664,732 | 34.93% |
 | Aug 2017 | $1,899,082 | $663,350 | 34.93% |
 | Sep 2017 | $1,895,125 | $661,968 | 34.93% |
+
+<img width="1225" height="532" alt="image" src="https://github.com/user-attachments/assets/9f53aeb5-66fe-40d7-99d1-d7f8a5a8d6ca" />
+
 
 ---
 
