@@ -279,8 +279,6 @@
 | Aug 2017 | $1,899,082 | $663,350 | 34.93% |
 | Sep 2017 | $1,895,125 | $661,968 | 34.93% |
 
-<img width="1225" height="532" alt="image" src="https://github.com/user-attachments/assets/9f53aeb5-66fe-40d7-99d1-d7f8a5a8d6ca" />
-
 
 ---
 
